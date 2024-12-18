@@ -35,3 +35,6 @@ if uploaded_file is not None:
     # Muestra el resultado
     # st.write(f"Vector de predicción: {prediction}")
     st.subheader(f"Predicción: **{predicted_class}**")
+url = "https://escenario5appsuma-n6vmb4favfnvq75ptlyh2r.streamlit.app/"
+
+st.write(f"Suma{url}")
